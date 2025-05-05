@@ -30,7 +30,7 @@ Graph Interpretation:
 1. Adult Body Mass per Penguin Species
 This bar chart compares the average adult mass of each penguin species.
 
- Observation: The smallest penguin species is Eudyptula minor, commonly known as the Little Blue Penguin or Fairy Penguin.
+ Observation: The smallest penguin species is Eudyptula minor, commonly known as the Little Blue Penguin or Fairy Penguin while the largest is Aptenodytes forsteri.
 
 2. Molecular Weight vs GC Content
 A scatter plot showing the relationship between GC content and the molecular weight of translated proteins.
