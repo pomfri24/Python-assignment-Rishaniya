@@ -12,7 +12,7 @@ Implemented a manual DNA-to-protein translation function using the Vertebrate Mi
 
 Computed Values:
 
-Molecular Weight: Calculated for each translated protein using BioPython’s ProteinAnalysis.
+Molecular Weight: Calculated for each translated protein using BioPython’s Protein Analysis.
 
 GC Content: Calculated the percentage of G and C nucleotides in each DNA sequence.
 
